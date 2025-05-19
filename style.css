@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(110, 50, 0);
+  color: gray;
+}
+
+p {
+  font-size: 2em; /* Define o tamanho da fonte (2 vezes o tamanho padrão) */
+}
+
+h1 {
+  font-size: 3em; /* Define um tamanho maior para títulos */
+}
+
+/* Você pode aplicar essa classe a qualquer elemento que queira centralizar e aumentar a fonte */
+.destaque {
+  text-align: center;
+  font-size: 1.5em;
+}
+body {
+  background-color: rgb(110, 50, 0);
+  color: gray;
+  font-family: 'Arial', sans-serif; /* Troca para a fonte Arial */
+}
+
+p {
+  font-size: 2em;
+  font-family: 'Verdana', sans-serif; /* Troca para a fonte Verdana */
+}
+
+h1 {
+  font-size: 3em;
+  font-family: 'Georgia', serif; /* Troca para a fonte Georgia */
+}
+
+.destaque {
+  text-align: center;
+  font-size: 1.5em;
+  font-family: 'Times New Roman', serif; /* Troca para a fonte Times New Roman */
+}
